@@ -17,5 +17,6 @@ public class GitTest {
         System.out.println("pull test");
         System.out.println("thanks");
         System.out.println("你好");
+        System.out.println("你好1");
     }
 }
